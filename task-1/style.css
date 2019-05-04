@@ -1,0 +1,43 @@
+.button {
+  background-color:#c63928;
+  padding: 14px 40px;
+  color: white
+}
+.button2  {
+  background-color:#fcd835;
+  padding: 16px;
+  border: 2px solid#3261e8;
+  color: #3261e8; 
+  font-family: 'Gugi', cursive;
+}
+.button3  { 
+  background: rgb(147,211,148);
+  background: linear-gradient(90deg, rgba(147,211,148,1) 7%, rgba(91,209,214,1) 100%);
+padding: 10px 34px;
+border-radius: 25px;
+color: aliceblue
+
+}
+.button4 {
+  background-color:  white;
+  border: 2px solid #6749ea;
+  color:  #734eeb;
+  border-radius: 11px;
+  padding: 10px 22px;
+}
+.button5 {
+  background-color: #f8bd32;
+  padding: 14px 40px;
+  color: azure
+}
+.button6 {
+  border-radius: 100%;
+  background-color:white;
+  border:  2px solid #37a1f3;
+  padding: 20px;
+  }
+  .fa-twitter { 
+    color: #37a1f3; }
+
+       
+  
